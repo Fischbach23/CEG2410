@@ -1,6 +1,7 @@
 ### Creating OUs
 ```
-![](image.png)
+![](![Screenshot 2024-04-17 191627](https://github.com/Fischbach23/CEG2410/assets/89490140/8347d510-12ac-4a2f-a485-c5ff199bbacd)
+
 ```
 
 
