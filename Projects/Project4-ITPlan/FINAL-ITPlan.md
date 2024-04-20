@@ -5,14 +5,14 @@
 
 
 ### Joining users
-```
-![](image.png)
-```
+
+![image](https://github.com/Fischbach23/CEG2410/blob/main/Projects/Project4-ITPlan/Screenshot%202024-04-19%20215248.png)
+
 
 ### Joining Computers
-```
-![](image.png)
-```
+
+![image](https://github.com/Fischbach23/CEG2410/blob/main/Projects/Project4-ITPlan/Screenshot%202024-04-19%20215903.png)
+
 
 ### Creating Groups
 ```
